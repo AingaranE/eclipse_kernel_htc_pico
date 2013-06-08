@@ -1,15 +1,19 @@
-ECLIPSE KERNEL for PICO
-=======================
+## ECLIPSE KERNEL FOR PICO ##
 
-BASED ON sakindia123's Linux Kernel 3.0.16 for Htc Explorer (Pico)
 
-FEATURES
-========
+> BASED ON sakindia123's Linux Kernel 3.0.16 for Htc Explorer (Pico)
 
-Will be updated soon
+**DETAILS:**  
 
-WORKING
-=======
+> - **SUPPORTED ANDROID VERSION :** ICS+ (not for sense-based)
+> - **STATUS** : Work in Progress
+> - **ETA** : Don't Ask !
+
+## FEATURES ##
+
+> Will be updated soon
+
+## WORKING ##
 
 - Touchscreen
 - Sound
@@ -17,7 +21,7 @@ WORKING
 - Brightness / Screen controls
 - Accelerometer
 - Vibrator
-- Ambient light sensor
+- Ambient light sensora
 - RIL
 - Camera
 - Hardware Buttons
@@ -35,8 +39,7 @@ WORKING
 - Bluetooth
 - FM Radio
 
-NOT WORKING
-===========
+## NOT WORKING ##
 
 - Nothing really
 
